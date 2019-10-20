@@ -10,6 +10,12 @@ h1,h2,h3,h4,h5,p{
     text-transform: uppercase;
   }
 
+  .error {
+    text-align: center;
+    margin-top: 30%;
+
+  }
+
   h6{
     letter-spacing: 2.5px;
     -webkit-text-transform: uppercase;
