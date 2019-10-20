@@ -5,8 +5,9 @@
             "project_name": "Random Quote Generator",
             "description": "Generates random quotes",
             "technologies": [
-                "javascript",
-                "css"
+                "JAVASCRIPT",
+                "CSS",
+                "HTML"
             ],
             "live_link": "http://htmlpreview.github.io/?https://github.com/krysbor/Random_Quote_Generator/blob/master/index.html",
             "github_link": "https://github.com/krysbor/Random_Quote_Generator",
@@ -20,8 +21,9 @@
             "project_name": "Interactive Form",
             "description": "Interactive Form",
             "technologies": [
-                "javascript",
-                "css"
+                "JAVASCRIPT",
+                "CSS",
+                "HTML"
             ],
             "live_link": "http://htmlpreview.github.io/?https://github.com/krysbor/Interactive-Form/blob/master/index.html",
             "github_link": "https://github.com/krysbor/Interactive-Form",
@@ -35,8 +37,9 @@
             "project_name": "List Pagination and Filtering",
             "description": "description",
             "technologies": [
-                "javascript",
-                "css"
+                "JAVASCRIPT",
+                "CSS",
+                "HTML"
             ],
             "live_link": "http://htmlpreview.github.io/?https://github.com/krysbor/List_Pagination_and_Filtering/blob/master/index.html",
             "github_link": "https://github.com/krysbor/List_Pagination_and_Filtering",
@@ -50,8 +53,9 @@
             "project_name": "OOP Game Show App",
             "description": "description",
             "technologies": [
-                "javascript",
-                "css"
+                "JAVASCRIPT",
+                "CSS",
+                "HTML"
             ],
             "live_link": "http://htmlpreview.github.io/?https://github.com/krysbor/OOP-Game-Show-App/blob/master/index.html",
             "github_link": "https://github.com/krysbor/OOP-Game-Show-App",
@@ -65,8 +69,9 @@
             "project_name": "Public API Request",
             "description": "description",
             "technologies": [
-                "javascript",
-                "css"
+                "JAVASCRIPT",
+                "CSS",
+                "HTML"
             ],
             "live_link": "http://htmlpreview.github.io/?https://github.com/krysbor/Public-Api-Request/blob/master/index.html",
             "github_link": "https://github.com/krysbor/Public-Api-Request",

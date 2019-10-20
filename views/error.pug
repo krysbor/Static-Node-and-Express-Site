@@ -3,3 +3,7 @@ extends layout.pug
 block content
     h1.error Page Not Found
         p Don't be angry, just try a different address :)
+        p= `Error message: ${errorMessage}`
+        p= `Status code: ${errorStatus}`
+        p Stack:
+        p= errorStack
