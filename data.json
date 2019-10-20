@@ -2,16 +2,77 @@
     "projects": [
         {
             "id": 0,
-            "project_name": "project name",
+            "project_name": "Random Quote Generator",
+            "description": "Generates random quotes",
+            "technologies": [
+                "javascript",
+                "css"
+            ],
+            "live_link": "http://htmlpreview.github.io/?https://github.com/krysbor/Random_Quote_Generator/blob/master/index.html",
+            "github_link": "https://github.com/krysbor/Random_Quote_Generator",
+            "image_urls": [
+                "/static/images/random_quote_gen_550x550.png",
+                "/static/images/random_quote_landscape.png"
+            ]
+        },
+        {
+            "id": 1,
+            "project_name": "Interactive Form",
+            "description": "Interactive Form",
+            "technologies": [
+                "javascript",
+                "css"
+            ],
+            "live_link": "http://htmlpreview.github.io/?https://github.com/krysbor/Interactive-Form/blob/master/index.html",
+            "github_link": "https://github.com/krysbor/Interactive-Form",
+            "image_urls": [
+                "/static/images/interactive_form_550x550.png",
+                "/static/images/interactive_form_landscape.png"
+            ]
+        },
+        {
+            "id": 2,
+            "project_name": "List Pagination and Filtering",
             "description": "description",
             "technologies": [
                 "javascript",
                 "css"
             ],
-            "live_link": "link here",
-            "github_link": "link to repo",
+            "live_link": "http://htmlpreview.github.io/?https://github.com/krysbor/List_Pagination_and_Filtering/blob/master/index.html",
+            "github_link": "https://github.com/krysbor/List_Pagination_and_Filtering",
             "image_urls": [
-
+                "/static/images/list_pagination_550x550.png",
+                "/static/images/list_pagination_landscape.png"
+            ]
+        },
+        {
+            "id": 3,
+            "project_name": "OOP Game Show App",
+            "description": "description",
+            "technologies": [
+                "javascript",
+                "css"
+            ],
+            "live_link": "http://htmlpreview.github.io/?https://github.com/krysbor/OOP-Game-Show-App/blob/master/index.html",
+            "github_link": "https://github.com/krysbor/OOP-Game-Show-App",
+            "image_urls": [
+                "/static/images/game_show_app_550x550.png",
+                "/static/images/game_show_app_landscape.png"
+            ]
+        },
+        {
+            "id": 4,
+            "project_name": "Public API Request",
+            "description": "description",
+            "technologies": [
+                "javascript",
+                "css"
+            ],
+            "live_link": "http://htmlpreview.github.io/?https://github.com/krysbor/Public-Api-Request/blob/master/index.html",
+            "github_link": "https://github.com/krysbor/Public-Api-Request",
+            "image_urls": [
+                "/static/images/public_api_request_550x550.png",
+                "/static/images/public_api_request_landscape.png"
             ]
         }
     ]
